@@ -1,6 +1,6 @@
 let posX, posY, diam, rad;
-let esp = 34;
-let margen = 50;
+let esp;
+let margen;
 let piso;
 let acel;
 
